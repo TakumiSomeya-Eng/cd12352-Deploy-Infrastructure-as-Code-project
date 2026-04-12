@@ -1,6 +1,10 @@
 [
-	{
-		"ParameterKey": "Add you parameters here",
-		"ParameterValue": "Add you parameters here"
-	}
+  {
+    "ParameterKey": "EnvironmentName",
+    "ParameterValue": "udagram"
+  },
+  {
+    "ParameterKey": "S3BucketName",
+    "ParameterValue": "udagram-static-content-2026"
+  }
 ]
